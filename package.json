@@ -1,0 +1,23 @@
+{
+  "name": "sre",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hello.js",
+  "scripts": {
+    "start": "node hello.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sreelakshminarayanan/SampleNodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sreelakshminarayanan/SampleNodejs/issues"
+  },
+  "homepage": "https://github.com/sreelakshminarayanan/SampleNodejs#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
